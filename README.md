@@ -5,7 +5,6 @@
 
 
 
-- 🔭 I’m currently studying at **Sepuluh Nopember Institute of Technology**
 - 🌱 I’m currently learning **Scripting Language, Configure Network Devices, and Linux Server Administration**
 - 👯 I’m very interested in **NetDevOps**
 - 📫 You can reach me on:
