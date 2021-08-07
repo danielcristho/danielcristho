@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Scripting Language especially Python, Configure Network Devices & Backend**
+- 🌱 I’m currently learning **Scripting Language, Configure Network Devices & Backend**
 - 👯 I’m very interested in **Devops**
 <!-- - 📫 You can reach me on:
                        [:bust_in_silhouette: Linkedin](https://www.linkedin.com/in/daniel-pepuho-bb3783193/)<br>-->
