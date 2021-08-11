@@ -6,9 +6,8 @@
 
 
 - 🌱 I’m currently learning **Scripting Language, Configure Network Devices & Linux**
-- 👯 I’m very interested in **Devops**
-<!-- - 📫 You can reach me on:
-                       [:bust_in_silhouette: Linkedin](https://www.linkedin.com/in/daniel-pepuho-bb3783193/)<br>-->
+- 📫 You can reach me on:
+                       [:bust_in_silhouette: Linkedin](https://www.linkedin.com/in/daniel-pepuho-bb3783193/)<br>
                        
   **KEEP FOCUS**:star:                       
 
