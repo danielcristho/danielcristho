@@ -6,7 +6,7 @@
 
 
 - 🌱 I’m currently learning **Scripting Language, Configure Network Devices & Web Development**
-- :large_blue_circle: **Very interested in Devops**
+- :large_blue_circle: **Very interested in NetDevops**
 - 📫 You can reach me on:
                        [:bust_in_silhouette: Linkedin](https://www.linkedin.com/in/daniel-pepuho-bb3783193/)<br>
                        
