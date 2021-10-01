@@ -9,6 +9,9 @@
 <!-- :large_blue_circle: **NetDevOps enthusiast**-->
 - 📫 You can reach me on:
                        [:bust_in_silhouette: Linkedin](https://www.linkedin.com/in/daniel-pepuho-bb3783193/)<br>
-                       
+                                            
   **KEEP FOCUS**:star:                       
+
+  
+  ![Visitor Count](https://profile-counter.glitch.me/danielcristho/count.svg)                      
 
