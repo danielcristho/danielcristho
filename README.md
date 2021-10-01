@@ -13,5 +13,4 @@
   **KEEP FOCUS**:star:                       
 
   
-  [Visitor Count](https://profile-counter.glitch.me/danielcristho/count.svg)                      
 
