@@ -1,18 +1,20 @@
-### Hi technology activist 👋
+<!--### Hi technology activist 👋
 
 
 <!--anielcristho/danielcristho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=danielcristho&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&langs_count=5&theme=tokyonight)]()
 
 
-- 🌱 I’m currently learning **Scripting Language, Configure Network Devices & Web Development**
+<!-- 🌱 I’m currently learning **Scripting Language, Configure Network Devices & Web Development**
 <!-- :large_blue_circle: **NetDevOps enthusiast**-->
-- 📫 You can reach me on:
+<!-- 📫 You can reach me on:
                        [:bust_in_silhouette: Linkedin](https://www.linkedin.com/in/daniel-pepuho-bb3783193/)<br>
                                             
-  **KEEP FOCUS**:star:                       
+  <!--**KEEP FOCUS**:star:                       
 
-  ![Visitor Count](https://profile-counter.glitch.me/danielcristho/count.svg)                      
+ <!--[Visitor Count](https://profile-counter.glitch.me/danielcristho/count.svg)                      
 
   
 
