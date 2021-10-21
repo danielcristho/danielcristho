@@ -4,7 +4,7 @@
 <!--anielcristho/danielcristho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 [![daniel pepuho github stats](https://github-readme-stats.vercel.app/api?username=danielcristho&count_private=true&theme=tokyonight&showicons=true)](https://github.com/danielcristho/github-readme-stats)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&hide=php,c,blade&theme=tokyonight)
 <!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&langs_count=5&theme=tokyonight)]()
 
 
