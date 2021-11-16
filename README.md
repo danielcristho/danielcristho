@@ -13,9 +13,10 @@
 <!-- 📫 You can reach me on:
                        [:bust_in_silhouette: Linkedin](https://www.linkedin.com/in/daniel-pepuho-bb3783193/)<br>
                                             
-  <!--**KEEP FOCUS**:star:                       
+  <!--**KEEP FOCUS**:star:-->                       
 
- <!--[Visitor Count](https://profile-counter.glitch.me/danielcristho/count.svg)                      
+ [](https://profile-counter.glitch.me/danielcristho/count.svg)
+<!--  ![](https://imgflip.com/gif/5ud29l) -->
 
   
 
