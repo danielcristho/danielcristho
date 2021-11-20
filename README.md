@@ -1,24 +1,21 @@
-<!--### Hi technology activist 👋
+ ### Hi there👋 - it's me Daniel
+ 
+ 🤔 I'm interested in:
+ - Networking
+ - DevOps Technology & Culture
 
+ 🔭 Also make a documentation in here:
+ - 🌐 [Documentation](https://dev.to/danielcristho)
+ 
+ 🔎 Want to know anything else? you can reach me on: [Linkedin](https://www.linkedin.com/in/daniel-pepuho/) and [Twitter](https://twitter.com/chrstdan)
 
-<!--anielcristho/danielcristho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+| <a href="https://github.com/danielcristho/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=danielcristho&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Daniel's github stats" /></a> | <a href="https://github.com/danielcristho/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-[![daniel pepuho github stats](https://github-readme-stats.vercel.app/api?username=danielcristho&count_private=true&theme=tokyonight&showicons=true)](https://github.com/danielcristho/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&theme=tokyonight)
-![](https://imgflip.com/gif/5uuxb0)
+**Languages and Tools:**  
 
-
-
-
-<!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&langs_count=5&theme=tokyonight)]()
-<!-- 🌱 I’m currently learning **Scripting Language, Configure Network Devices & Web Development**
-<!-- :large_blue_circle: **NetDevOps enthusiast**-->
-<!-- 📫 You can reach me on:
-[:bust_in_silhouette: Linkedin](https://www.linkedin.com/in/daniel-pepuho-bb3783193/)<br>                              
-  <!--**KEEP FOCUS**:star:-->                       
-
-<!--  [](https://profile-counter.glitch.me/danielcristho/count.svg) -->
-<!--  ![](https://imgflip.com/gif/5ud29l) -->
-
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/docker/docker.png"></code>
 
