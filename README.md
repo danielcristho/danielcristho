@@ -5,7 +5,7 @@
  - Web Development
  - DevOps Technology & Culture
 
- 🔭 Also make a documentation in here:
+ 🔭 I also make a documentation in here:
  - 🌐 [Documentation](https://dev.to/danielcristho)
  
  🔎 Want to know anything else? you can reach me on: [Linkedin](https://www.linkedin.com/in/daniel-pepuho/) and [Twitter](https://twitter.com/chrstdan)
