@@ -1,9 +1,10 @@
  ### Hi there👋 - it's me Daniel
  
  🤔 I'm interested in:
+ - DevOps Technology & Culture
  - Networking
  - Web Development
- - DevOps Technology & Culture
+ 
 
  🔭 I also make a documentation in here:
  - 🌐 [Documentation](https://dev.to/danielcristho)
