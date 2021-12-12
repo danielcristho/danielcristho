@@ -1,4 +1,4 @@
- ### Hi there👋 - it's me Daniel
+### Hi there👋 - it's me, Daniel
  
  🤔 I'm interested in:
  - DevOps Technology & Culture
@@ -9,7 +9,7 @@
  🔭 I also make a documentation in here:
  - 🌐 [Documentation](https://dev.to/danielcristho)
  
- 🔎 Want to know anything else? You can reach me on: [Linkedin](https://www.linkedin.com/in/daniel-pepuho/) and [Twitter](https://twitter.com/chrstdan)
+ 🔎 Want to know anything else? You can reach me on: [Linkedin](https://www.linkedin.com/in/daniel-pepuho/) or [Twitter](https://twitter.com/chrstdan)
 
 | <a href="https://github.com/danielcristho/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=danielcristho&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Daniel's github stats" /></a> | <a href="https://github.com/danielcristho/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
