@@ -6,8 +6,8 @@
  - Backend
  
 
- 🔭 I also make a documentation in here:
- - 🌐 [Documentation](https://dev.to/danielcristho)
+ 🔭 I also make post&documentation in here:
+ - 🌐 [dev.to](https://dev.to/danielcristho)
  
  🔎 Want to know anything else? You can reach me on: [Linkedin](https://www.linkedin.com/in/daniel-pepuho/) <!--  or  [Twitter](https://twitter.com/chrstdan) -->
 
