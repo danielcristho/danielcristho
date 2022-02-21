@@ -12,16 +12,10 @@
  🔎 Want to know anything else? You can reach me on: [Linkedin](https://www.linkedin.com/in/daniel-pepuho/) <!--  or  [Twitter](https://twitter.com/chrstdan) -->
  
  <div>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=danielcristho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&  hide=contribs"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&layout=compact&theme=tokyonight&hide=php,blade,c, tex,c%2B%2B, javascript&langs_count=6&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=danielcristho&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&layout=compact&theme=tokyonight&hide=php, blade, c, tex,c%2B%2B, javascript&langs_count=6&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=danielcristho&layout=compact&theme=tokyonight&langs_count=4&hide_border=true" />
 </div>
- 
- 
- 
- 
- 
- 
  
  
  
