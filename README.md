@@ -20,5 +20,6 @@
 <a href="https://github.com/danielcristho/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielcristho&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Daniel's github stats" /></a> <a href="https://github.com/danielcristho/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&layout=compact&theme=tokyonight&hide_border=true&hide=tex,blade,php"/>
-<a href="https://wakatime.com/@e7f380cc-1fda-4868-84f9-cd5b516d7cb9"><img src="https://wakatime.com/badge/user/e7f380cc-1fda-4868-84f9-cd5b516d7cb9.svg" alt="Total time coded since Feb 20 2022" /></a>
+<!-- <a href="https://wakatime.com/@e7f380cc-1fda-4868-84f9-cd5b516d7cb9"><img src="https://wakatime.com/badge/user/e7f380cc-1fda-4868-84f9-cd5b516d7cb9.svg" alt="Total time coded since Feb 20 2022" /></a> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=danielcristho&theme=tokyonight&hide_border=true&layout=compact&langs_count=4" />
 </div>
