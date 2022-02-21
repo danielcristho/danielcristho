@@ -18,16 +18,7 @@
  
 <div>
 <a href="https://github.com/danielcristho/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielcristho&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Daniel's github stats" /></a> | <a href="https://github.com/danielcristho/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielcristho&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Daniel's github stats" /></a> <a href="https://github.com/danielcristho/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&layout=compact&theme=tokyonight&hide_border=true&hide=tex,blade,php"/>
 <a href="https://wakatime.com/@e7f380cc-1fda-4868-84f9-cd5b516d7cb9"><img src="https://wakatime.com/badge/user/e7f380cc-1fda-4868-84f9-cd5b516d7cb9.svg" alt="Total time coded since Feb 20 2022" /></a>
 </div>
-<!-- <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=danielcristho&layout=compact&theme=react&langs_count=4" /> -->
-
-
-
-
-<!--   <img src="https://github.com/<username>/<repository-name>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
-   Example: <img src="https://github.com/tariksahni/tariksahni/blob/master/codeStats.svg" alt="My Coding Activity/>
-
- -->
