@@ -1,11 +1,13 @@
 ## Hi there👋 - it's me, Daniel
+
+ <div>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=danielcristho&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&layout=compact&theme=tokyonight&hide=php,blade,c, tex,c%2B%2B, javascript&langs_count=6&hide_border=true"/>
+ </div>
+ 
 ### You can reach me on🌐
 <a href="https://www.linkedin.com/in/daniel-pepuho/" /><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&  hide_border=true&style=flat"  />
  <a href="https://dev.to/danielcristho" /><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&hide_border=true&style=flat" />
- <div>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=danielcristho&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&layout=compact&theme=tokyonight&hide=php,blade,c, tex,c%2B%2B, javascript&langs_count=6&hide_border=true" />
- </div>
  
  
  
