@@ -1,5 +1,5 @@
-## Hi there👋 - it's me, Daniel
-### You can reach me on🌐
+### Hi there👋 - it's me, Daniel
+#### You can reach me on:
 <a href="https://www.linkedin.com/in/daniel-pepuho/" /><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&  hide_border=true&style=flat"  />
  <a href="https://dev.to/danielcristho" /><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&hide_border=true&style=flat" />
  <div>
