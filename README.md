@@ -7,8 +7,10 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&layout=compact&theme=tokyonight&hide=php,blade,c, tex,c%2B%2B, javascript&langs_count=6&hide_border=true"/>
  <img height="150" src="https://github-readme-stats.vercel.app/api?username=danielcristho&theme=tokyonight&show_icons=true&hide_border=true"/>
  </div>
+ 
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
-### Coding Stats
+<!-- ### Coding Stats
 <!--START_SECTION:waka-->
 
 ```text
@@ -19,7 +21,7 @@ Python     15 mins         ▒░░░░░░░░░░░░░░░░�
 Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka--> -->
  
  
  
