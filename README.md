@@ -11,13 +11,14 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 
-```yml
+```text
 C          13 hrs 42 mins  █████████████████████▒░░░   85.84 %
 C++        1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
 Markdown   37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
 Python     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
+
 <!--END_SECTION:waka-->
  
  
