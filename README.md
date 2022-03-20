@@ -8,28 +8,12 @@
  <img height="150" src="https://github-readme-stats.vercel.app/api?username=danielcristho&theme=tokyonight&show_icons=true&hide_border=true"/>
  </div>
  
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ### Coding Stats
-<!--START_SECTION:waka-->
 
-```text
-C          13 hrs 42 mins  █████████████████████▒░░░   85.84 %
-C++        1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-Markdown   37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Python     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-```
-
-<!--END_SECTION:waka--> -->
- 
- 
- 
  
 <!--  [![Daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danielcristho&theme=tokyonight&hide_border=true)](https://github.com/danielcristho/danielcristho) -->
 
 <!--   [![wakatime](https://wakatime.com/badge/user/e7f380cc-1fda-4868-84f9-cd5b516d7cb9.svg)](https://wakatime.com/@e7f380cc-1fda-4868-84f9-cd5b516d7cb9)
- -->
  
  
  
