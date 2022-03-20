@@ -7,11 +7,11 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&layout=compact&theme=tokyonight&hide=php,blade,c, tex,c%2B%2B, javascript&langs_count=6&hide_border=true"/>
  <img height="150" src="https://github-readme-stats.vercel.app/api?username=danielcristho&theme=tokyonight&show_icons=true&hide_border=true"/>
  </div>
- 
+
 ### Coding Stats
 <!--START_SECTION:waka-->
 
-```text
+```yml
 C          13 hrs 42 mins  █████████████████████▒░░░   85.84 %
 C++        1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
 Markdown   37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
@@ -19,7 +19,6 @@ Python     15 mins         ▒░░░░░░░░░░░░░░░░�
 Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 <!--END_SECTION:waka-->
-
  
  
  
