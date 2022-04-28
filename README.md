@@ -4,8 +4,10 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />
-       i'm Daniel
+       my name is Daniel Pepuho
 </h3>
+
+### Socials:
 
 <h3 align="left"> 
 <!-- You can reach me on: -->
