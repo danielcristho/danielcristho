@@ -17,7 +17,7 @@
  
 <h4>
     
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&layout=compact&hide=blade&theme=tokyonight&langs_count=6&hide_border=true" />
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=danielcristho&theme=tokyonight&show_icons=true&hide_border=true" />
     
 </h4>
