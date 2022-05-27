@@ -23,14 +23,6 @@
 </h4>
 
 <a href="https://wakatime.com/@e7f380cc-1fda-4868-84f9-cd5b516d7cb9"><img src="https://wakatime.com/badge/user/e7f380cc-1fda-4868-84f9-cd5b516d7cb9.svg" alt="Total time coded since Feb 20 2022" />
-
-
- 
-<!--  [![Daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danielcristho&theme=tokyonight&hide_border=true)](https://github.com/danielcristho/danielcristho) -->
-
-<!--   [![wakatime](https://wakatime.com/badge/user/e7f380cc-1fda-4868-84f9-cd5b516d7cb9.svg)](https://wakatime.com/@e7f380cc-1fda-4868-84f9-cd5b516d7cb9)
- 
- 
  
  
  
