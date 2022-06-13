@@ -19,6 +19,7 @@
     
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&layout=compact&hide=blade,tex,c,r,javascript,html,c%2B%2B,css&theme=tokyonight&langs_count=6&hide_border=true" />
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=danielcristho&theme=tokyonight&show_icons=true&hide_border=true" />
+<!-- <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=danielcristho&https://github.com/anuraghazra/github-readme-stats" /> -->
     
 </h4>
 
