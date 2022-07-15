@@ -6,7 +6,7 @@
          width="45" />
 </h2>
 
-I am **Daniel**, I work with Python for Network Automation and Bakcend. Currently learn DevOps (culture&practice). 
+I am **Daniel**, I work with Python for Network Automation and Backend. Currently learning DevOps (culture&practice). 
 
 ### Socials 
 <a href="https://www.linkedin.com/in/daniel-pepuho/" /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hide_border=true&style=flat" /></a>
