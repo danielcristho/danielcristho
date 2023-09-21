@@ -16,7 +16,7 @@ I am **Daniel**,  I work with Python ecosystem. Now focusing on Networking and D
 <a href="https://wakatime.com/@e7f380cc-1fda-4868-84f9-cd5b516d7cb9"><img src="https://wakatime.com/badge/user/e7f380cc-1fda-4868-84f9-cd5b516d7cb9.svg" alt="Total time coded since Feb 20 2022" /></a>
 
   
-#### Follow me on
+#### Reach me on
 
 <a href="https://www.linkedin.com/in/daniel-pepuho/" /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hide_border=true&style=flat" /></a>
 <a href="https://dev.to/danielcristho" /> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&hide_border=true&style=flat" /></a>
