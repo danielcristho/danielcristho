@@ -6,7 +6,7 @@
          width="45" />
 </h2>
 
-I am **Daniel**,  I work with Python ecosystem. Now focusing on Networking and DevOps.
+I am **Daniel**,  I love working with Python, now focusing on Networking and DevOps.
 
 ## Github Stats
 
