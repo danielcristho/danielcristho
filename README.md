@@ -9,9 +9,10 @@
 I am **Daniel**,  I work with Python ecosystem. Now focusing on Networking and DevOps.
 
 ## Github Stats
-![Daniel's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=danielcristho&theme=gruvbox&hide_border=false)
 
-![Daniel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&theme=gruvbox&show_icons=true&hide_border=false&layout=compact&hide=javascript,c%23,CSS,blade,HTML,php,shaderlab)
+![Daniel's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=danielcristho&theme=gruvbox&hide_border=true)
+
+![Daniel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&hide=javascript,c%23,CSS,blade,HTML,php,shaderlab)
 
 <a href="https://wakatime.com/@e7f380cc-1fda-4868-84f9-cd5b516d7cb9"><img src="https://wakatime.com/badge/user/e7f380cc-1fda-4868-84f9-cd5b516d7cb9.svg" alt="Total time coded since Feb 20 2022" /></a>
 
