@@ -8,7 +8,7 @@
 
 I am **Daniel**, passionate about **DevOps**, **Python Automation**, and **Open Source Projects**.  
 
-### 🌱 Currently Learning:  
+### 🌱 Currently Learning  
 - ☁️ Cloud & Distributed Systems  
 - ⚙️ Infrastructure as Code  
 
