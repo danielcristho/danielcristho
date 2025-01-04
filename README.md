@@ -22,5 +22,6 @@ I am **Daniel**, passionate about **DevOps**, **Python Automation**, and **Open 
 
 ### 🤝 Let's Connect  
 
-<a href="https://www.linkedin.com/in/daniel-pepuho/" /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hide_border=true&style=flat" /></a>
-<a href="https://dev.to/danielcristho" /> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&hide_border=true&style=flat" /></a>
+<a href="https://www.linkedin.com/in/daniel-pepuho/" /> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&hide_border=true&style=flat" /></a>
+<a href="https://dev.to/danielcristho" /> <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&hide_border=true&style=flat" /></a>
+<a href="https://medium.com/@danielpepuho" /> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&hide_border=true&style=flat" /></a>
