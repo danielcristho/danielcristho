@@ -22,12 +22,8 @@ I am **Daniel**, passionate about **DevOps**, **Python Automation**, and **Open 
 
 ### 🤝 Let's Connect  
 
-<a href="https://www.linkedin.com/in/daniel-pepuho/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&hide_border=true" alt="LinkedIn">
-</a>
-<a href="https://dev.to/danielcristho">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=Dev.to&logoColor=white&hide_border=true" alt="Dev.to">
-</a>
-<a href="https://medium.com/@danielpepuho">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white&hide_border=true" alt="Medium">
-</a>
+<p align="left">
+   <a href="https://www.linkedin.com/in/daniel-pepuho" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+   <a href="https://dev.to/danielcristho" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"></a>
+   <a href="https://medium.com/@danielpepuho" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+</p>
