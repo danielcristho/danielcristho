@@ -6,19 +6,15 @@
          width="30" />  
 </h2>  
 
-I am **Daniel**, passionate about **DevOps**, **Python Automation**, and **Open Source Projects**.  
+I’m Daniel, passionate about DevOps, Python (especially automation), and Open Source Projects.
 
-### 🌱 Currently Learning  
-- ☁️ Cloud & Distributed Systems  
-- ⚙️ Infrastructure as Code  
+### 📊 Stats  
 
-### 📊 GitHub Stats  
+<img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=danielcristho&theme=gruvbox&hide_border=false" alt="GitHub Streak" />
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=danielcristho&theme=gruvbox&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&theme=gruvbox&hide_border=false&layout=compact&hide=javascript,c%23,CSS,blade,HTML,php,shaderlab&langs_count=10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&theme=gruvbox&hide_border=true&layout=compact&hide=javascript,c%23,CSS,blade,HTML,php,shaderlab)  
-
-<a href="https://wakatime.com/@e7f380cc-1fda-4868-84f9-cd5b516d7cb9"><img src="https://wakatime.com/badge/user/e7f380cc-1fda-4868-84f9-cd5b516d7cb9.svg" alt="Wakatime Badge" /></a>  
+<a href="https://wakatime.com/@e7f380cc-1fda-4868-84f9-cd5b516d7cb9"><img src="https://wakatime.com/badge/user/e7f380cc-1fda-4868-84f9-cd5b516d7cb9.svg?style=for-the-badge" alt="Wakatime Badge" /></a>  
 
 ### 🤝 Let's Connect  
 
