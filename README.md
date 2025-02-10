@@ -6,7 +6,7 @@
          width="30" />  
 </h2>  
 
-I’m Daniel, passionate about DevOps, cloud-native technologies & Machine Learning. I love working with Python, optimizing workflows, and contributing to open-source projects.
+I’m Daniel, passionate about DevOps, Cloud Native technologies & Machine Learning. I love working with Python, optimizing workflows, and contributing to open-source projects.
 
 <p align="left">
   <samp>
