@@ -11,13 +11,12 @@ I’m Daniel, passionate about DevOps, Cloud Native technologies & Machine Learn
 <p align="left">
   <samp>
     <a href="https://danielcristho.site/blog">blog</a> ·
+    <a href="https://docs.danielcristho.site/">docs</a> ·
     <a href="https://www.linkedin.com/in/daniel-pepuho">linkedin</a> ·
     <a href="https://dev.to/danielcristho">dev.to</a> ·
     <a href="https://medium.com/@danielpepuho">medium</a> .
     <a href="https://twitter.com/chrstdan">x.com</a> .
     <a href="https://mastodon.social/@danielcristho"> mastodon</a>
-
-    
   </samp>
 </p>
 
