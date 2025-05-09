@@ -21,7 +21,7 @@ I’m Daniel, passionate about Cloud Native, Machine Learning, and the culture a
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danielcristho&theme=gruvbox&layout=compact" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danielcristho&theme=gruvbox&layout=compact" width="400"/>
 </a>
 
 [![Wakatime Badge](https://wakatime.com/badge/user/e7f380cc-1fda-4868-84f9-cd5b516d7cb9.svg?style=for-the-badge)](https://wakatime.com/@danielcristho)
