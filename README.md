@@ -20,13 +20,9 @@ I’m Daniel, passionate about Cloud Native, Machine Learning, and the culture a
   </samp>
 </p>
 
-<p align="left">
-  <img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=danielcristho&theme=gruvbox&hide_border=false" alt="GitHub Streak" />
-  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcristho&theme=gruvbox&hide_border=false&layout=compact&hide=javascript,c%23,CSS,blade,HTML,php,shaderlab&langs_count=8" alt="Top Languages" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danielcristho&theme=gruvbox&layout=compact" width="300"/>
+</a>
 
-<p align="left">
-  <a href="https://wakatime.com/@e7f380cc-1fda-4868-84f9-cd5b516d7cb9">
-    <img src="https://wakatime.com/badge/user/e7f380cc-1fda-4868-84f9-cd5b516d7cb9.svg?style=for-the-badge" alt="Wakatime Badge" />
-  </a>
-</p> 
+[![Wakatime Badge](https://wakatime.com/badge/user/e7f380cc-1fda-4868-84f9-cd5b516d7cb9.svg?style=for-the-badge)](https://wakatime.com/@danielcristho)
+
