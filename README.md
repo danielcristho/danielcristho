@@ -16,7 +16,8 @@ I’m Daniel, currently diving into Cloud Native, DevOps culture, and Machine Le
     <a href="https://medium.com/@danielpepuho">medium</a> .
     <a href="https://www.linkedin.com/in/daniel-pepuho">linkedin</a> ·
     <a href="https://twitter.com/chrstdan">x.com</a> .
-    <a href="https://mastodon.social/@danielcristho"> mastodon</a>
+    <a href="https://mastodon.social/@danielcristho"> mastodon</a> .
+    <a href="https://www.reddit.com/user/No_Secretary2862"> reddit</a>
   </samp>
 </p>
 
